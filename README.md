@@ -1,7 +1,7 @@
 ### HI! 👋
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/469250027835883520)
 
-My name is Ricardo, I'm 20 years old and I'm from Portugal.
+My name is Ricardo, I'm a 20 years old student from Portugal.
 
 <div style="font-size:1rem;border:1px dashed black;width:5.3rem;border-radius:13px;padding-inline:7px">
   Tecnologies
